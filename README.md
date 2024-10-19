@@ -1,2 +1,2 @@
 # GITsample
-summa
+Sample
